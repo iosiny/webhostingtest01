@@ -1,0 +1,10 @@
+navbar:
+  title: WebExample
+  left:
+    - text: "환영"
+      href: "index.html"
+    - text: "소개"
+      href: "about.html"
+    - text: "R이란?"
+      href: "Rintro.html"
+    
